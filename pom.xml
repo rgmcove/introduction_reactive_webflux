@@ -50,7 +50,6 @@
 		<module>api-rest-reactiva-anotaciones</module>
 		<module>pruebas-step-verifier</module>
 		<module>pruebas-servicios-step-verifier</module>
-		<module>contrapresion-ejemplos</module>
 	</modules>
 
 	<build>
