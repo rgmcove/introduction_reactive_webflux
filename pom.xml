@@ -49,7 +49,6 @@
 		<module>introduccion-project-reactor</module>
 		<module>api-rest-reactiva-anotaciones</module>
 		<module>pruebas-step-verifier</module>
-		<module>pruebas-servicios-step-verifier</module>
 	</modules>
 
 	<build>
