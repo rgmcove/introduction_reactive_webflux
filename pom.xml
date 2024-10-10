@@ -50,7 +50,6 @@
 		<module>contrapresion-ejemplos</module>
 		<module>transformacion-combinacion-flujos</module>
 		<module>manejo-excepciones</module>
-		<module>thymeleaf-reactivo</module>
 	</modules>
 
 	<build>
