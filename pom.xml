@@ -47,6 +47,7 @@
 
 	<modules>
 		<module>introduccion-project-reactor</module>
+		<module>api-rest-reactiva-anotaciones</module>
 	</modules>
 
 	<build>
