@@ -1,4 +1,4 @@
-package org.ragomos.reactor;
+package com.step.verifier;
 
 public class Main {
     public static void main(String[] args) {
